@@ -1,8 +1,8 @@
-##LearnHub: A Coursera-like Learning Platform
+#LearnHub: A Coursera-like Learning Platform
 LearnHub is an online learning platform inspired by Coursera, designed to provide high-quality educational content to learners worldwide. This project aims to create an accessible, user-friendly interface for students to enroll in courses, track their progress, and interact with instructors and peers.
 
 ##Features
-User authentication and profile management
+###User authentication and profile management
 To add -> Course catalog with search and filter functionality
 To Add -> Video lectures with transcripts and closed captions
 To Add -> Interactive quizzes and assignments
@@ -20,7 +20,7 @@ To Add -> Video Hosting: Amazon S3 and CloudFront
 To Add -> Deployment: Vercel
 
 ##Getting Started
-Prerequisites
+###Prerequisites
 Node.js (v14 or later)
 npm (v6 or later)
 MongoDB (v4 or later)
