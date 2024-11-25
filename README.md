@@ -32,15 +32,16 @@ git clone https://github.com/yourusername/learnhub.git
 cd learnhub
 
 2.Install dependencies:
-
 npm install
+
+
 3.Set up environment variables: Create a .env.local file in the root directory and add the following variables:
 
 MONGODB_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
 
 4.Run the development server:
-
 npm run dev
 
 5.Open http://localhost:3000 in your browser to see the application.
